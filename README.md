@@ -12,6 +12,8 @@ Given the Income Census dataset, the goal is to accomplish some tasks on feature
 
 > Extraction was done by Barry Becker from the 1994 US Census database. A set of reasonably clean records was extracted using the following conditions: (AAGE>16) and (AGI>100) and (AFNLWGT>1) and (HRSWK>0).
 
+<br>
+
 ### **Task's description**
 
 **The prediction task is to determine whether a person makes over $50K a year (income exceeds $50K/yr) based on census data.** Also known as "Adult" dataset.
